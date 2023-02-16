@@ -1,4 +1,7 @@
 # pcap-stat
+endpoint(mac, ip) 정보를 key로 하여 각각의 송신 패킷 갯수, 송신 패킷 바이트, 수신 패킷 갯수, 수신 패킷 바이트를 계산한다.
+conversation(smac-dmac, sip-dip) 정보를 key로 하여 각각의 송신 패킷 갯수, 송신 패킷 바이트, 수신 패킷 갯수, 수신 패킷 바이트를 계산한다.
+
 ## [EndPoint]
 
 ![image](https://user-images.githubusercontent.com/59923602/219250270-a4420549-3c9c-4525-b0bc-c40eace239c6.png)
