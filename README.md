@@ -3,7 +3,7 @@ endpoint(mac, ip) 정보를 key로 하여 각각의 송신 패킷 갯수, 송신
 conversation(smac-dmac, sip-dip) 정보를 key로 하여 각각의 송신 패킷 갯수, 송신 패킷 바이트, 수신 패킷 갯수, 수신 패킷 바이트를 계산한다.
 
 ## 실행
-ex) pcap-stat paket.pcap
+ex) pcap-stat packet.pcap
 
 ## [EndPoint]
 
